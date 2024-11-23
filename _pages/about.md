@@ -15,11 +15,15 @@ redirect_from:
 
 ***Master of Science in Management***
 
+dissertation: *The Effects of CEO original family harmony on firm product innovation performance—A moderated mediation model*
+
 > Honors: Academic Excellence Scholarship (Top 5%), Outstanding Student, Outstanding Graduation Thesis
 
 **[Chongqing University, Chongqing](https://www.cqu.edu.cn/)**, Sep. 2015 – Jun 2019
 
 ***Bachelor of Arts in English***
+
+dissertation: *Father's entrepreneurial failure in "The Egg": Perspectives of opportunities and resources*
 
 > Honors: Integrated Scholarship (Top 10%; Five times), National Endeavor Scholarship (Twice), Outstanding Graduate, Outstanding Student, Outstanding Volunteer (Five times)
 
