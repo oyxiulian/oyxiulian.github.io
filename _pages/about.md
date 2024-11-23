@@ -25,11 +25,11 @@ Dissertation: *Father's entrepreneurial failure in "The Egg": Perspectives of op
 
 ## ACADEMIC POSITION
 
-**[China Europe International Business School (CEIBS), Shanghai](https://cn.ceibs.edu/)**
+**[China Europe International Business School (CEIBS), Shanghai](https://www.ceibs.edu/)**
 
-***Research Assistant for Professor Kim Tae Yeol***, Jun. 2023 – Present
+***Research Assistant for Professor [Kim Tae Yeol](https://www.ceibs.edu/kim-tae-yeol)***, Jun. 2023 – Present
 
 > Prof. Kim is an Associate Editor of Human Relations, a Section Editor of Journal of Business Ethics, and one of the world’s most cited researchers in Business Management & Accounting (Elsevier, 2020–2023). So far, I have worked with Prof. Kim as co-author for four projects, conducted data analysis for seven projects, collected data for one project, cleaned data for three projects, reviewed literature on five topics, and formatted manuscripts for several projects.
 
-***Research Assistant for Professor Kwan Ho Kwong***, Aug. 2022 – May. 2023
+***Research Assistant for Professor [Kwan Ho Kwong](https://www.ceibs.edu/kwan_hk)***, Aug. 2022 – May. 2023
 
