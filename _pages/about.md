@@ -15,7 +15,7 @@ redirect_from:
 
 ***Master of Science in Management***
 
-dissertation: *The Effects of CEO original family harmony on firm product innovation performance—A moderated mediation model*
+Dissertation: *The Effects of CEO original family harmony on firm product innovation performance—A moderated mediation model*
 
 > Honors: Academic Excellence Scholarship (Top 5%), Outstanding Student, Outstanding Graduation Thesis
 
@@ -23,7 +23,7 @@ dissertation: *The Effects of CEO original family harmony on firm product innova
 
 ***Bachelor of Arts in English***
 
-dissertation: *Father's entrepreneurial failure in "The Egg": Perspectives of opportunities and resources*
+Dissertation: *Father's entrepreneurial failure in "The Egg": Perspectives of opportunities and resources*
 
 > Honors: Integrated Scholarship (Top 10%; Five times), National Endeavor Scholarship (Twice), Outstanding Graduate, Outstanding Student, Outstanding Volunteer (Five times)
 
