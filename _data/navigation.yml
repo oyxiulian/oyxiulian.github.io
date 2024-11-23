@@ -8,14 +8,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Projects"
+    url: /projects/
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Honors/Awards"
+    url: /honors/
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Community Service"
+    url: /service/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
