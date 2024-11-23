@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "avatar.png"
   name             : "OuYangXiuLian"
   pronouns         : # example: "she/her"  
-  bio              : "Researcher at CEIBS"
+  bio              : "Research assistant at CEIBS"
   location         : "China"
   employer         : "CEIBS"
   uri              : # URL
-  email            : "dev@ainoe.one"
+  email            : "oyxiulian@ceibs.edu"
 
   # Academic websites
 #  arxiv            : # URL - Update with the correct link to your profile
