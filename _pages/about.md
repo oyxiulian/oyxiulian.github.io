@@ -11,13 +11,13 @@ redirect_from:
 
 ## EDUCATION BACKGROUND
 
-**[Tongji University, Shanghai](https://www.tongji.edu.cn/)**, Sep. 2019 – Jun. 2022
+**[Tongji University, Shanghai](https://en.tongji.edu.cn/)**, Sep. 2019 – Jun. 2022
 
 ***Master of Science in Management***
 
 Dissertation: *The Effects of CEO original family harmony on firm product innovation performance—A moderated mediation model*(**Outstanding Graduation Thesis**)
 
-**[Chongqing University, Chongqing](https://www.cqu.edu.cn/)**, Sep. 2015 – Jun 2019
+**[Chongqing University, Chongqing](https://english.cqu.edu.cn/)**, Sep. 2015 – Jun 2019
 
 ***Bachelor of Arts in English***
 
