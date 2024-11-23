@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "OuyangXiuLian"
+title                    : "Xiulian Ouyang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "avatar.png"
-  name             : "OuyangXiuLian"
+  name             : "Xiulian Ouyang"
   pronouns         : # example: "she/her"  
   bio              : "Research assistant at CEIBS"
   location         : "China"
@@ -58,7 +58,7 @@ author:
 #  keybase          : # Username
 #  instagram        : # Username
 #  lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "Xiulian Ouyang"
 #  mastodon         : # URL
 #  medium           : # URL
 #  pinterest        : # Username
