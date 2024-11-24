@@ -7,11 +7,11 @@ author_profile: true
 
 ## Participated Published Projects
 
-* Rodgers, M. S., Kim, T. Y., Chen, T., & David, E. (2024). Effects of leader group prototypicality on leadership outcomes through leader identity threat: The moderating effects of leader perceptions of organizational support. *Journal of Management Studies, 61(4)*, 1427–1456.👉[Entry](https://doi.org/10.1111/joms.12927)
-* David, E. M., Kim, T. Y., Kwan, H. K., & Liu, Z. (2024). Trickle-down effects of corporate social responsibility on employee outcomes: The mediating role of family-supportive supervisor behaviors. *Asia Pacific Journal of Management*, 1–22.👉[Entry](https://doi.org/10.1007/s10490-024-09994-w)
-* Carter, K. M., Hetrick, A. L., Chen, M., Humphrey, S. E., Morgeson, F. P., & Hoffman, B. J. (2024). How culture shapes the influence of work design characteristics: A narrative and meta-analytic review. *Journal of Management*, 50(1), 122–157.👉[Entry](https://doi.org/10.1177/01492063231179405)
-* Wu, L. Z., Huang, Y., Sun, Z., Lyu, Y., Ye, Y., Kwan, H. K., & Liu, X. (2023). Perceived organizational exploitation and organizational citizenship behavior: A social identity perspective. *Asia Pacific Journal of Management*, 1–23.👉[Entry](https://doi.org/10.1007/s10490-023-09919-z)
-* Rahaman, H. S., Kwan, H. K., Babalola, M. T., & Chen, H. (2023). Putting customer service at risk: Why and when family ostracism relates to customer-oriented behaviors. *International Journal of Hospitality Management, 109*, 103390.👉[Entry](https://doi.org/10.1016/j.ijhm.2022.103390)
+* Rodgers, M. S., Kim, T. Y., Chen, T., & David, E. (2024). Effects of leader group prototypicality on leadership outcomes through leader identity threat: The moderating effects of leader perceptions of organizational support. *Journal of Management Studies, 61(4)*, 1427–1456.👉[View](https://doi.org/10.1111/joms.12927)
+* David, E. M., Kim, T. Y., Kwan, H. K., & Liu, Z. (2024). Trickle-down effects of corporate social responsibility on employee outcomes: The mediating role of family-supportive supervisor behaviors. *Asia Pacific Journal of Management*, 1–22.👉[View](https://doi.org/10.1007/s10490-024-09994-w)
+* Carter, K. M., Hetrick, A. L., Chen, M., Humphrey, S. E., Morgeson, F. P., & Hoffman, B. J. (2024). How culture shapes the influence of work design characteristics: A narrative and meta-analytic review. *Journal of Management*, 50(1), 122–157.👉[View](https://doi.org/10.1177/01492063231179405)
+* Wu, L. Z., Huang, Y., Sun, Z., Lyu, Y., Ye, Y., Kwan, H. K., & Liu, X. (2023). Perceived organizational exploitation and organizational citizenship behavior: A social identity perspective. *Asia Pacific Journal of Management*, 1–23.👉[View](https://doi.org/10.1007/s10490-023-09919-z)
+* Rahaman, H. S., Kwan, H. K., Babalola, M. T., & Chen, H. (2023). Putting customer service at risk: Why and when family ostracism relates to customer-oriented behaviors. *International Journal of Hospitality Management, 109*, 103390.👉[View](https://doi.org/10.1016/j.ijhm.2022.103390)
 
 ## Participated Under Review Projects
 
