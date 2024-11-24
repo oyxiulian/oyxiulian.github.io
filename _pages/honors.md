@@ -7,7 +7,6 @@ author_profile: true
 
 ## Academic
 
-- TEM-4(Test for English Majors - Band 4)&TEM-8(Test for English Majors - Band 8) 👉[View(TEM-4)](/honors/image22.png) [View(TEM-8)](/honors/image23.png)
 - 2022 Outstanding Graduation Thesis, Tongji University 👉[View](/honors/image1.jpeg)
 - 2022 Outstanding Student, Tongji University 👉[View](/honors/image2.png)
 - 2021 Academic Excellence Scholarship (**Top 5%**), Tongji University 👉[View](/honors/image3.png)
@@ -16,8 +15,6 @@ author_profile: true
 - 2018 Yangtao Scholarship, Chongqing University
 - 2016-2017 National Endeavor Scholarship (**Twice**), Chongqing University 👉[View(2016)](/honors/image6.png) [View(2017)](/honors/image7.jpeg)
 - 2015-2018 Integrated Scholarship (**Top 10%; Five times**), Chongqing University 👉[View(2015H2)](/honors/image8.png) [View(2016H1)](/honors/image9.png) [View(2016H2)](/honors/image10.png) [View(2017H1)](/honors/image11.png) [View(2017H2)](/honors/image12.jpeg)
-- Summer Intensive Translation and Interpretation Academic Program at The University of British Columbia. 👉[View](/honors/image24.png)
-- Business English Certificate – Intermediate
 
 ## Extracurricular Achievements
 
@@ -34,4 +31,10 @@ author_profile: true
 - 2017 Outstanding Individual in Winter Social Practice Program, Chongqing University. 👉[View](/honors/image16.png)
   
   > I wrote a report titled *An Examination of the Educational Situation in Rural Secondary Schools: A Case Study of Fengbian Middle School* after reviewing the literature on rural education, interviewing the principal of Fengbian Middle School, six students, and their parents, and conducting a site visit.
+
+## Certificate
+
+- TEM-4(Test for English Majors - Band 4)&TEM-8(Test for English Majors - Band 8) 👉[View(TEM-4)](/honors/image22.png) [View(TEM-8)](/honors/image23.png)
+- Summer Intensive Translation and Interpretation Academic Program at The University of British Columbia. 👉[View](/honors/image24.png)
+- Business English Certificate – Intermediate
 
