@@ -30,7 +30,7 @@ Dissertation: *Father's entrepreneurial failure in "The Egg": Perspectives of op
 
 > Prof. Kim is an Associate Editor of Human Relations, a Section Editor of Journal of Business Ethics, and one of the world’s most cited researchers in Business Management & Accounting (Elsevier, 2020-2023). So far, I have worked with Prof. Kim as co-author for four projects, conducted data analysis for seven projects, collected data for one project, cleaned data for three projects, reviewed literature on five topics, and formatted manuscripts for several projects.
 
-***Research Assistant for Professor [Kwan Ho Kwong](https://scholar.google.com/citations?user=l9zGlTYAAAAJ&hl=en&oi=ao)***, Aug. 2022 - May. 2023
+***Research Assistant for Professor [Kwan Ho Kwong](https://scholar.google.com/citations?user=l9zGlTYAAAAJ&hl=en&oi=ao)***, Aug. 2022 - May 2023
 
 ## ACADEMIC SKILLS AND ABILITIES
 
