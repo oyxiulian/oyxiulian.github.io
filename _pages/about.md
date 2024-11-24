@@ -32,3 +32,44 @@ Dissertation: *Father's entrepreneurial failure in "The Egg": Perspectives of op
 
 ***Research Assistant for Professor [Kwan Ho Kwong](https://scholar.google.com/citations?user=l9zGlTYAAAAJ&hl=en&oi=ao)***, Aug. 2022 - May. 2023
 
+## ACADEMIC SKILLS AND ABILITIES
+
+### Software
+
+- SPSS
+- Mplus
+- R
+- Stata
+- Excel VBA
+- CiteSpace
+
+### Methods (with project experience)
+
+- Multilevel Structural Equation Modelling (*e.g., two- or three-level SEM models*)
+- Factor Analyses (*e.g., EFA and CFA*)
+- Path Analyses (*e.g., moderated mediation and mediated moderation*)
+- Polynomial Regression
+- Latent Profile Analyses
+- Meta-analysis
+- Bibliometric Method
+- Monte Carlo Simulation
+- Bias-corrected Percentile Bootstrap
+
+### Workshops Attended
+
+- Frontier Research Methods for Dyadic Data Analysis (*Actor-Partner Interdependence Model, Dyadic Response Surface Analysis, One-with-Many Designs, Social Relations Model*)
+- 2024 IACMR Research Method Workshop (*e.g., Experience Sampling Method, Experimental Research, Qualitative Study*)
+- Meta-analysis Seminar
+- Mplus Software Application Workshop
+- 6th OB-HRM Research Workshop
+- Multilevel SEM Seminar
+
+### Courses Attended
+
+- Research Methods in Management and Organizations
+- Philosophy of Management Research
+- Multivariate Statistical Analysis
+- Seminar in Organizational Behavior
+- Seminar in Leadership
+- Seminar in Organization Theory
+

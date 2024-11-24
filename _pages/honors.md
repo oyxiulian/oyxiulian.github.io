@@ -34,6 +34,8 @@ author_profile: true
 
 ## Certificate
 
+### Language: English
+
 - TEM-4(Test for English Majors - Band 4)&TEM-8(Test for English Majors - Band 8) 👉[View(TEM-4)](/honors/image22.png) [View(TEM-8)](/honors/image23.png)
 - Summer Intensive Translation and Interpretation Academic Program at The University of British Columbia. 👉[View](/honors/image24.png)
 - Business English Certificate – Intermediate
