@@ -14,7 +14,7 @@ redirect_from:
 
 ***Master of Science in Management***
 
-Dissertation: *The Effects of CEO original family harmony on firm product innovation performance—A moderated mediation model*(**Outstanding Graduation Thesis**)
+Dissertation: *The Effects of CEO original family harmony on firm product innovation performance - A moderated mediation model*(**Outstanding Graduation Thesis**)
 
 **[Chongqing University, Chongqing](https://english.cqu.edu.cn/)**, Sep. 2015 – Jun 2019
 
