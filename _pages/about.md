@@ -11,7 +11,7 @@ redirect_from:
 <script src="/assets/js/about.js"></script>
 
 <div id="content">
-    <p>I am Xiulian Ouyang, a research assistant at CEIBS.My career goal is to conduct research and teach leadership,
+    <p>I am Xiulian Ouyang, a research assistant at CEIBS. My career goal is to conduct research and teach leadership,
         well-being, identity, and status, aiming to grow as a great scholar at a leading research university. In this
         role, I aspire to advance theoretical frameworks, mentor emerging researchers passionate about academia, and
         contribute to resolving complex real-world challenges. To achieve this career goal, I seek to attend a
