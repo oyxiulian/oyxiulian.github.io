@@ -27,3 +27,43 @@ author_profile: true
 * Kong, D. T., Kim, T. Y, Han, I., & Xiang, Y. Effects of relative leader humor on employee outcomes. Stage: Data analysis.
 * Zhang, X., Kwan, H. K., & Wu, F. Effects of mentor holding behaviors on protégés outcomes. Stage: Data analysis.
 
+## ACADEMIC SKILLS AND ABILITIES
+
+### Software
+
+- SPSS
+- Mplus
+- R
+- Stata
+- Excel VBA
+- CiteSpace
+
+### Methods (with project experience)
+
+- Multilevel Structural Equation Modelling (*e.g., two- or three-level SEM models*)
+- Factor Analyses (*e.g., EFA and CFA*)
+- Path Analyses (*e.g., moderated mediation and mediated moderation*)
+- Polynomial Regression
+- Latent Profile Analyses
+- Meta-analysis
+- Bibliometric Method
+- Monte Carlo Simulation
+- Bias-corrected Percentile Bootstrap
+
+### Workshops Attended
+
+- Frontier Research Methods for Dyadic Data Analysis (*Actor-Partner Interdependence Model, Dyadic Response Surface Analysis, One-with-Many Designs, Social Relations Model*)
+- 2024 IACMR Research Method Workshop (*e.g., Experience Sampling Method, Experimental Research, Qualitative Study*)
+- Meta-analysis Seminar
+- Mplus Software Application Workshop
+- 6th OB-HRM Research Workshop
+- Multilevel SEM Seminar
+
+### Courses Attended
+
+- Research Methods in Management and Organizations
+- Philosophy of Management Research
+- Multivariate Statistical Analysis
+- Seminar in Organizational Behavior
+- Seminar in Leadership
+- Seminar in Organization Theory
