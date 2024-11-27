@@ -18,25 +18,23 @@ author_profile: true
 
 ## Extracurricular Achievements
 
-- 2017 National Bing Xin Literature Contest. 👉[View](/honors/image13.png)
-  
+- 2017 Third Prize, National *Bing Xin* Literature Contest 👉[View](/honors/image13.png)
   > I wrote a short story - *A Penny Slapped onto the Bridge of the Nose*.
-- 2017 First Prize, *Literature Cup* Essay Writing Competition, Chongqing University. (A Live Writing Contest.)
-- 2017 Third Prize, Third *Internet Plus* Innovation and Entrepreneurship Competition, Chongqing University. 👉[View](/honors/image14.png)
-  
+- 2017 First Prize, *Literature Cup* Essay Writing Competition, Chongqing University
+  > A Live Writing Contest.
+- 2017 Third Prize, Third *Internet Plus* Innovation and Entrepreneurship Competition, Chongqing University 👉[View](/honors/image14.png)
   > Our group focused on photography and developed a mini-program and a WeChat public account to attract potential consumers. We also designed cultural and creative products related to photography.
-- 2017 Third Prize, Career Planning and Interview Competition, Chongqing University. 👉[View](/honors/image15.png)
-  
+- 2017 Third Prize, Career Planning and Interview Competition, Chongqing University 👉[View](/honors/image15.png)
   > I interviewed several coaches about how undergraduate students can effectively prepare for their careers and wrote a report.
-- 2017 Outstanding Individual in Winter Social Practice Program, Chongqing University. 👉[View](/honors/image16.png)
-  
+- 2017 Outstanding Individual in Winter Social Practice Program, Chongqing University 👉[View](/honors/image16.png)
   > I wrote a report titled *An Examination of the Educational Situation in Rural Secondary Schools: A Case Study of Fengbian Middle School* after reviewing the literature on rural education, interviewing the principal of Fengbian Middle School, six students, and their parents, and conducting a site visit.
 
 ## Certificate
 
-### Language: English
+### Language
 
-- TEM-4(Test for English Majors - Band 4)&TEM-8(Test for English Majors - Band 8) 👉[View(TEM-4)](/honors/image22.png) [View(TEM-8)](/honors/image23.png)
-- Summer Intensive Translation and Interpretation Academic Program at The University of British Columbia. 👉[View](/honors/image24.png)
-- Business English Certificate – Intermediate
+- TEM-8(Test for English Majors-Band 8) 👉[View(TEM-8)](/honors/image23.png)
+- TEM-4(Test for English Majors-Band 4) 👉[View(TEM-4)](/honors/image22.png)
+- Summer Intensive Translation and Interpretation Academic Program at The University of British Columbia 👉[View](/honors/image24.png)
+- Business English Certificate-Intermediate
 
