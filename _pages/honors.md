@@ -13,8 +13,8 @@ author_profile: true
 - 2019 Outstanding Graduate, Chongqing University 👉[View](/honors/image4.jpeg)
 - 2018 Outstanding Student, Chongqing University 👉[View](/honors/image5.png)
 - 2018 Yangtao Scholarship, Chongqing University
-- 2016-2017 National Endeavor Scholarship (**Twice**), Chongqing University 👉[View(2016)](/honors/image6.png) [View(2017)](/honors/image7.jpeg)
-- 2015-2018 Integrated Scholarship (**Top 10%; Five times**), Chongqing University 👉[View(2015H2)](/honors/image8.png) [View(2016H1)](/honors/image9.png) [View(2016H2)](/honors/image10.png) [View(2017H1)](/honors/image11.png) [View(2017H2)](/honors/image12.jpeg)
+- 2016–2017 National Endeavor Scholarship (**Twice**), Chongqing University 👉[View(2016)](/honors/image6.png) [View(2017)](/honors/image7.jpeg)
+- 2015–2018 Integrated Scholarship (**Top 10%; Five times**), Chongqing University 👉[View(2015H2)](/honors/image8.png) [View(2016H1)](/honors/image9.png) [View(2016H2)](/honors/image10.png) [View(2017H1)](/honors/image11.png) [View(2017H2)](/honors/image12.jpeg)
 
 <h2>Extracurricular Achievements</h2>
 <ul>

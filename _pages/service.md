@@ -34,7 +34,7 @@ author_profile: true
     </div>
   </li>
   <li class="item">
-    2016 Jun.-Jul. Volunteer teacher in Wajiji Leprosy Village, Liangshan, Sichuan (<strong>Outstanding Volunteer</strong>)
+    2016 Jun.–Jul. Volunteer teacher in Wajiji Leprosy Village, Liangshan, Sichuan (<strong>Outstanding Volunteer</strong>)
     👉<a href="/honors/image21.png" class="view-link">View</a>
   </li>
   <li class="item">
