@@ -5,7 +5,7 @@ permalink: /honors/
 author_profile: true
 ---
 <link rel="stylesheet" href="/assets/css/item.css">
-## Academic
+## Academic achievements
 
 - 2022 Outstanding Graduation Thesis, Tongji University 👉[View](/honors/image1.jpeg)
 - 2022 Outstanding Student, Tongji University 👉[View](/honors/image2.png)
@@ -54,9 +54,7 @@ author_profile: true
   </li>
 </ul>
 
-## Certificate
-
-### Language
+## Certificates
 
 - TEM-8(Test for English Majors-Band 8) 👉[View(TEM-8)](/honors/image23.png)
 - TEM-4(Test for English Majors-Band 4) 👉[View(TEM-4)](/honors/image22.png)
