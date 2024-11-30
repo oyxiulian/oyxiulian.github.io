@@ -13,7 +13,7 @@ author_profile: true
     padding: 8px; /* 较小的内边距，使内容更紧凑 */
     border-radius: 4px;
     margin-top: 2px; /* 减少与上文的距离 */
-    display: inline-block;
+    display: block;
     font-size: 14px; /* 比默认字体小一号 */
   }
   .view-link {
