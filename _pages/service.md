@@ -16,7 +16,7 @@ author_profile: true
   > I kept in touch with children in remote mountain areas through letters, offering support, listening to their concerns, and answering any questions they had.
 - 2016 Jun.-Jul. Volunteer teacher in Wajijima Leprosy Village, Liangshan, Sichuan (**Outstanding Volunteer**) 👉[View](/honors/image21.png)
 - 2015-2019 Leader of Pearl Student Association
-  > Pearl students are those supported by the [Xin Hua Education Foundation](https://en.xhef.org/). I was mainly responsible for organizing activities, answering questions in the group, helping groups adapt to university life, and providing resources such as information.
+  > Pearl students are those supported by the [Xin Hua Education Foundation](https://en.xhef.org/). I was mainly responsible for organizing activities, answering questions in the group, helping group members adapt to university life, and providing resources such as information.
 - 2016-2017 Volunteer of GEDAR Highrise
   > [GEDAR Highrise](http://www.cedarcharity.org/) is a non-profit organization that supports academically talented students from remote, disadvantaged regions through scholarships and career development programs. I primarily helped organize activities for the Coach Project, coordinated between coaches and members, summarized their feedback, wrote reports, and assisted with the progress and improvement of the project.
 

@@ -27,7 +27,7 @@ author_profile: true
 - Kong, D. T., Kim, T. Y, Han, I., & Xiang, Y. Effects of relative leader humor on employee outcomes. Stage: Data analysis.
 - Zhang, X., Kwan, H. K., & Wu, F. Effects of mentor holding behaviors on protégés outcomes. Stage: Data analysis.
 
-## ACADEMIC SKILLS AND ABILITIES
+## Academic Skills And Abilities
 
 ### Software
 

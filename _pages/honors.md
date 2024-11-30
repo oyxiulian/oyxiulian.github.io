@@ -18,11 +18,11 @@ author_profile: true
 
 ## Extracurricular Achievements
 
-- 2017 Third Prize, National *Bing Xin* Literature Contest 👉[View](/honors/image13.png)
+- 2017 Third Prize, National "Bing Xin" Literature Contest 👉[View](/honors/image13.png)
   > I wrote a short story - *A Penny Slapped onto the Bridge of the Nose*.
-- 2017 First Prize, *Literature Cup* Essay Writing Competition, Chongqing University
+- 2017 First Prize, "Literature Cup" Writing Competition, Chongqing University
   > A Live Writing Contest.
-- 2017 Third Prize, Third *Internet Plus* Innovation and Entrepreneurship Competition, Chongqing University 👉[View](/honors/image14.png)
+- 2017 Third Prize, Third "Internet Plus" Innovation and Entrepreneurship Competition, Chongqing University 👉[View](/honors/image14.png)
   > Our group focused on photography and developed a mini-program and a WeChat public account to attract potential consumers. We also designed cultural and creative products related to photography.
 - 2017 Third Prize, Career Planning and Interview Competition, Chongqing University 👉[View](/honors/image15.png)
   > I interviewed several coaches about how undergraduate students can effectively prepare for their careers and wrote a report.
