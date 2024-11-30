@@ -6,7 +6,6 @@ author_profile: true
 ---
 <style>
   body {
-    background-color: #282c34; /* 背景颜色 */
     color: #abb2bf; /* 文字颜色 */
     font-family: Arial, sans-serif;
     font-size: 16px; /* 默认字体大小 */
@@ -38,14 +37,14 @@ author_profile: true
     <a href="/honors/image17.png" class="view-link">👉 View</a>
   </li>
   <li class="volunteer-item">
-    2015-2018 Volunteer/Leader of Youth Volunteer Association of School of Foreign Languages and Cultures (<strong>Outstanding Volunteer</strong>)
+    2015–2018 Volunteer/Leader of Youth Volunteer Association of School of Foreign Languages and Cultures (<strong>Outstanding Volunteer</strong>)
     <a href="/honors/image18.jpeg" class="view-link">👉 View</a>
     <div class="description">
       Our team primarily visited Baojia Primary School to teach the children, providing educational lessons and playing games with them.
     </div>
   </li>
   <li class="volunteer-item">
-    2015-2018 Volunteer of Wucaishi Volunteer Association (<strong>Outstanding Volunteer</strong>)
+    2015–2018 Volunteer of Wucaishi Volunteer Association (<strong>Outstanding Volunteer</strong>)
     <a href="/honors/image19.png" class="view-link">👉 View(2016)</a>
     <a href="/honors/image20.png" class="view-link"> [View(2017)]</a>
     <div class="description">
@@ -53,7 +52,7 @@ author_profile: true
     </div>
   </li>
   <li class="volunteer-item">
-    2016-2017 Volunteer of Love and Care Association
+    2016–2017 Volunteer of Love and Care Association
     <div class="description">
       I kept in touch with children in remote mountain areas through letters, offering support, listening to their concerns, and answering any questions they had.
     </div>
@@ -63,13 +62,13 @@ author_profile: true
     <a href="/honors/image21.png" class="view-link">👉 View</a>
   </li>
   <li class="volunteer-item">
-    2015-2019 Leader of Pearl Student Association
+    2015–2019 Leader of Pearl Student Association
     <div class="description">
       Pearl students are those supported by the <a href="https://en.xhef.org/" target="_blank">Xin Hua Education Foundation</a>. I was mainly responsible for organizing activities, answering questions in the group, helping group members adapt to university life, and providing resources such as information.
     </div>
   </li>
   <li class="volunteer-item">
-    2016-2017 Volunteer of GEDAR Highrise
+    2016–2017 Volunteer of GEDAR Highrise
     <div class="description">
       <a href="http://www.cedarcharity.org/" target="_blank">GEDAR Highrise</a> is a non-profit organization that supports academically talented students from remote, disadvantaged regions through scholarships and career development programs. I primarily helped organize activities for the Coach Project, coordinated between coaches and members, summarized their feedback, wrote reports, and assisted with the progress and improvement of the project.
     </div>
