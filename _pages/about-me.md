@@ -25,8 +25,10 @@ Thanks for your time and interest in my work!
 ### Interactive Corner
 
 If you have at least one of them (sunshine, laughter, or love), **give me a five** by clicking the button below:
-<button id="highFiveButton" style="padding: 10px; background-color: #ffcc00; color: #000; font-size: 16px; border: none; border-radius: 5px; cursor: pointer;"> High Five!</button>  
-<p id="highFiveCount">High Fives Given: 0</p >  
+<div>
+    <button id="highFiveButton" style="padding: 10px; background-color: #ffcc00; color: #000; font-size: 16px; border: none; border-radius: 5px; cursor: pointer;"> High Five!</button>
+    <span id="highFiveCount">High Fives Given: 0</span >
+</div>
 
 <script>
   let highFiveCount = 0;
