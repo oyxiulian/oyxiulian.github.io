@@ -5,17 +5,17 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Research Experiences/Skills"
+  - title: "RESEARCH EXPERIENCES/SKILLS"
     url: /projects/
 
-  - title: "Honors/Awards"
+  - title: "HONORS/AWARDS"
     url: /honors/
     
-  - title: "Community Service"
+  - title: "COMMUNITY SERVICE"
     url: /service/
         
-#  - title: "Blog Posts"
-#    url: /year-archive/
+  - title: "ABOUT ME"
+    url: /about-me/
     
 #  - title: "CV"
 #    url: /cv/
