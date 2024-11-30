@@ -31,12 +31,7 @@ author_profile: true
 
 ### Software
 
-- SPSS
-- Mplus
-- R
-- Stata
-- Excel VBA
-- CiteSpace
+SPSS, Mplus, R, Stata, Excel VBA, CiteSpace
 
 ### Methods (with project experience)
 
