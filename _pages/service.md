@@ -9,7 +9,7 @@ author_profile: true
     margin-bottom: 10px; /* 减少列表项之间的间距 */
   }
   .description {
-    background-color: #3c3e3f; /* 灰色背景 */
+    background-color: #fafafa; /* 灰色背景 */
     padding: 8px; /* 较小的内边距，使内容更紧凑 */
     border-radius: 4px;
     margin-top: 2px; /* 减少与上文的距离 */
