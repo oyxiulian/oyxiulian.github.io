@@ -5,7 +5,7 @@ permalink: /honors/
 author_profile: true
 ---
 <link rel="stylesheet" href="/assets/css/item.css">
-## Academic achievements
+## Academic Achievements
 
 - 2022 Outstanding Graduation Thesis, Tongji University 👉[View](/honors/image1.jpeg)
 - 2022 Outstanding Student, Tongji University 👉[View](/honors/image2.png)
