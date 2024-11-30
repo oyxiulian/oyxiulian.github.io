@@ -10,7 +10,7 @@ Thanks for your time and interest in my work!
 
 ---
 
-### About Me
+## About Me
 
 - **Longest Hike**: 23.03 km
 - **Highest Climb**: 3,966 m (Cangshan)
@@ -19,16 +19,6 @@ Thanks for your time and interest in my work!
 - **Tagline on Social Media**: 
 "Faith is the reality of what is hoped for, the proof of what is not seen."
 - **Things Cherished Most**: Sunshine, Laughter, and Love
-
----
-
-### Interactive Corner
-
-If you have at least one of them (sunshine, laughter, or love), **give me a five** by clicking the button below:
-<div>
-    <button id="highFiveButton" style="padding: 10px; background-color: #ffcc00; color: #000; font-size: 16px; border: none; border-radius: 5px; cursor: pointer;"> High Five!</button>
-    <span id="highFiveCount">High Fives Given: 0</span >
-</div>
 
 <script>
   let highFiveCount = 0;
