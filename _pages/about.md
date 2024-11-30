@@ -40,6 +40,7 @@ Leadership, well-being, identity, social hierarchy
 
 ## SELECTED PAPERS
 
+### published papers
 - Kwan, H. K., Wang, Y., Wu, X., & **Ouyang, X.** (2024). CEO family harmony and firm product innovation performance: A moderated mediation model of the CEO-TMT interface. *Journal of Management & Organization*, 1–20.👉[View](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F5C52E058B1C20638C4DC11D00A6CA02/S1833367224000221a.pdf/ceo_family_harmony_and_firm_product_innovation_performance_a_moderated_mediation_model_of_the_ceotmt_interface.pdf)
 
 ### Working Papers
