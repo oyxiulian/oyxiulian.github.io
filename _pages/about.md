@@ -24,7 +24,7 @@ redirect_from:
   <li class="item">
     Research Assistant for Prof. <a href="https://scholar.google.com/citations?user=2Z7Vb4kAAAAJ&hl=en&oi=ao" class="view-link">Kim Tae Yeol</a>, Jun. 2023–Present
     <div class="description">
-        Prof. Kim is an Associate Editor of Human Relations, a Section Editor of Journal of Business Ethics, and one of the world’s most cited researchers in Business Management & Accounting (Elsevier, 2020-2023). So far, I have worked with Prof. Kim as co-author for four projects, conducted data analysis for seven projects, collected data for one project, cleaned data for three projects, reviewed literature on five topics, and formatted manuscripts for several projects.
+        Prof. Kim is an Associate Editor of Human Relations, a Section Editor of Journal of Business Ethics, and one of the world’s most cited researchers in Business Management & Accounting (Elsevier, 2020-2023). So far, I have worked with Prof. Kim as co-author for three projects, conducted data analysis for seven projects, collected data for one project, cleaned data for three projects, reviewed literature on five topics, and formatted manuscripts for several projects.
     </div>
   </li>
   <li class="item">
@@ -38,7 +38,7 @@ redirect_from:
 ## RESEARCH INTERESTS
 Leadership, well-being, identity, social hierarchy
 
-## PUBLICATIONS
+## SELECTED PAPERS
 
 - Kwan, H. K., Wang, Y., Wu, X., & **Ouyang, X.** (2024). CEO family harmony and firm product innovation performance: A moderated mediation model of the CEO-TMT interface. *Journal of Management & Organization*, 1–20.👉[View](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F5C52E058B1C20638C4DC11D00A6CA02/S1833367224000221a.pdf/ceo_family_harmony_and_firm_product_innovation_performance_a_moderated_mediation_model_of_the_ceotmt_interface.pdf)
 
