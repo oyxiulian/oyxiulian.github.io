@@ -17,7 +17,7 @@ author_profile: true
 
 - Zheng, M., Kim, T. Y., & Xiang, Y. [Job crafting and employee outcomes]. Stage: Under review at *International Journal of Hospitality Management*.
 - Kim, T. Y., David, E. M., Chen, T., & Liang, Y. [Leader and follower self-presentation styles]. Stage: Under review at *Journal of Applied Psychology*.
-- Kim, T. Y., Wang, J., Chen, J., Wu, W., & Wu, E. [Task performance and citizenship behaviors relationship] Stage: Under review at *Human Resource Management*.
+- Kim, T. Y., Wang, J., Chen, J., Wu, W., & Wu, E. [Task performance and citizenship behaviors relationship]. Stage: Under review at *Human Resource Management*.
 - Yang, J., Liu, Z., & Kim, T. Y. [Effects of task idiosyncratic deals]. Stage: Under review at *Organizational Behavior and Human Decision Processes*.
 - Kwan, H. K., Zhang, X., Zhong, W., & Lee, C. [Effects of Abusive CEOs]. Stage: Preparing for submission to *Personnel Psychology*.
 
