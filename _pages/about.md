@@ -28,7 +28,7 @@ redirect_from:
     </div>
   </li>
   <li class="item">
-    Research Assistant for Prof. <a href="https://scholar.google.com/citations?user=l9zGlTYAAAAJ&hl=en&oi=ao" class="view-link">Kwan Ho Kwong</a>, Jun. 2023–Present
+    Research Assistant for Prof. <a href="https://scholar.google.com/citations?user=l9zGlTYAAAAJ&hl=en&oi=ao" class="view-link">Kwan Ho Kwong</a>, Aug. 2022–May 2023
     <div class="description">
         Prof. Kwan is one of the world’s most cited researchers in Business Management & Accounting (Elsevier, 2021–2023). I worked with Prof. Kwan as co-author for two projects, wrote a report for a national research project, drafted one research proposal, and drafted three articles published in business magazines.
     </div>
