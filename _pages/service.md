@@ -36,6 +36,9 @@ author_profile: true
   <li class="item">
     2016 Jun.–Jul. Volunteer teacher in Wajiji Leprosy Village, Liangshan, Sichuan (<strong>Outstanding Volunteer</strong>)
     👉<a href="/honors/image21.png" class="view-link">View</a>
+    <div class="description">
+        I mainly taught students and visited villages to understand the residents' living conditions, document their needs, distribute supplies, and provide health education sessions for women.
+    </div>
   </li>
   <li class="item">
     2015–2019 Leader of Pearl Student Association
