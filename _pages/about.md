@@ -13,11 +13,9 @@ redirect_from:
 
 ## EDUCATION BACKGROUND
 
-**[Tongji University, Shanghai](https://www.usnews.com/education/best-global-universities/tongji-university-501326)**, Sep. 2019 - Jun. 2022
-***Master of Science in Management***
+**[Tongji University, Shanghai](https://www.usnews.com/education/best-global-universities/tongji-university-501326)**, ***Master of Science in Management***, Sep. 2019 - Jun. 2022
 
-**[Chongqing University, Chongqing](https://www.usnews.com/education/best-global-universities/chongqing-university-505768)**, Sep. 2015 - Jun. 2019
-***Bachelor of Arts in English***
+**[Chongqing University, Chongqing](https://www.usnews.com/education/best-global-universities/chongqing-university-505768)**, ***Bachelor of Arts in English***, Sep. 2015 - Jun. 2019
 
 ## ACADEMIC POSITION
 
