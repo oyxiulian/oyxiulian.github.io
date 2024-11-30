@@ -5,11 +5,6 @@ permalink: /service/
 author_profile: true
 ---
 <style>
-  body {
-    color: #abb2bf; /* 文字颜色 */
-    font-family: Arial, sans-serif;
-    font-size: 16px; /* 默认字体大小 */
-  }
   .volunteer-item {
     margin-bottom: 10px; /* 减少列表项之间的间距 */
   }
