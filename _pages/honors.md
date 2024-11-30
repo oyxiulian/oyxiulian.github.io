@@ -20,7 +20,7 @@ author_profile: true
 <ul>
   <li class="item">
     2017 Third Prize, National "Bing Xin" Literature Contest
-    <a href="/honors/image13.png" class="view-link">👉 View</a>
+    👉<a href="/honors/image13.png" class="view-link">View</a>
     <div class="description">
       I wrote a short story - A Penny Slapped onto the Bridge of the Nose.
     </div>
@@ -33,21 +33,21 @@ author_profile: true
   </li>
   <li class="item">
     2017 Third Prize, Third "Internet Plus" Innovation and Entrepreneurship Competition, Chongqing University
-    <a href="/honors/image14.png" class="view-link">👉 View</a>
+    👉<a href="/honors/image14.png" class="view-link">View</a>
     <div class="description">
       Our group focused on photography and developed a mini-program and a WeChat public account to attract potential consumers. We also designed cultural and creative products related to photography.
     </div>
   </li>
   <li class="item">
     2017 Third Prize, Career Planning and Interview Competition, Chongqing University
-    <a href="/honors/image15.png" class="view-link">👉 View</a>
+    👉<a href="/honors/image15.png" class="view-link">View</a>
     <div class="description">
       I interviewed several coaches about how undergraduate students can effectively prepare for their careers and wrote a report.
     </div>
   </li>
   <li class="item">
     2017 Outstanding Individual in Winter Social Practice Program, Chongqing University
-    <a href="/honors/image16.png" class="view-link">👉 View</a>
+    👉<a href="/honors/image16.png" class="view-link">View</a>
     <div class="description">
       I wrote a report titled "An Examination of the Educational Situation in Rural Secondary Schools: A Case Study of Fengbian Middle School" after reviewing the literature on rural education, interviewing the principal of Fengbian Middle School, six students, and their parents, and conducting a site visit.
     </div>
