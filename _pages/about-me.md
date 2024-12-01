@@ -24,23 +24,20 @@ Thanks for your time and interest in my work!
 </div>
 
 <script>
-document.getElementById('giveMeFiveButton').addEventListener('click', function() {
-    const fireworksContainer = document.getElementById('fireworks');
-    const buttonRect = this.getBoundingClientRect();
-    const centerX = buttonRect.left + buttonRect.width / 2;
-    const centerY = buttonRect.top + buttonRect.height / 2;
-    for (let i = 0; i < 10; i++) {
-        const firework = document.createElement('div');
-        firework.classList.add('firework');
-        firework.style.left = `${centerX}px`;
-        firework.style.top = `${centerY}px`;
-        const randomColor = `rgba(${Math.floor(Math.random() * 256)}, ${Math.floor(Math.random() * 256)}, ${Math.floor(Math.random() * 256)}, 1)`;
-        firework.style.background = `radial-gradient(circle, ${randomColor}, transparent)`;
-        fireworksContainer.appendChild(firework);
-        setTimeout(() => {
-            fireworksContainer.removeChild(firework);
-        }, 1000);
+    function createRipple(event) {
+        const button = event.currentTarget;
+        const circle = document.createElement("span");
+        const diameter = Math.max(button.clientWidth, button.clientHeight);
+        const radius = diameter / 2;
+        circle.style.width = circle.style.height = `${diameter}px`;
+        circle.style.left = `${event.clientX - button.offsetLeft - radius}px`;
+        circle.style.top = `${event.clientY - button.offsetTop - radius}px`;
+        circle.classList.add("ripple");
+        const ripple = button.getElementsByClassName("ripple")[0];
+        if (ripple) {
+            ripple.remove();
+        }
+        button.appendChild(circle);
     }
-});
 </script>
 <link rel="stylesheet" href="/assets/css/give-me-five.css">
