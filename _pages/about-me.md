@@ -20,24 +20,22 @@ Thanks for your time and interest in my work!
 "Faith is the reality of what is hoped for, the proof of what is not seen."
 - **Things Cherished Most**: Sunshine, Laughter, and Love
 <div class="container">
-    <button class="give-me-five-button" onclick="createRipple()">Give Me Five</button>
+    <button id="clapButton" class="btn">Clap!</button>
+    <div id="clapsContainer"></div>
 </div>
 
 <script>
-    function createRipple(event) {
-        const button = event.currentTarget;
-        const circle = document.createElement("span");
-        const diameter = Math.max(button.clientWidth, button.clientHeight);
-        const radius = diameter / 2;
-        circle.style.width = circle.style.height = `${diameter}px`;
-        circle.style.left = `${event.clientX - button.offsetLeft - radius}px`;
-        circle.style.top = `${event.clientY - button.offsetTop - radius}px`;
-        circle.classList.add("ripple");
-        const ripple = button.getElementsByClassName("ripple")[0];
-        if (ripple) {
-            ripple.remove();
-        }
-        button.appendChild(circle);
-    }
+document.getElementById('clapButton').addEventListener('click', function() {
+    const clapsContainer = document.getElementById('clapsContainer');
+    const newClap = document.createElement('span');
+    newClap.classList.add('clap');
+    newClap.textContent = '+1👏';
+
+    clapsContainer.appendChild(newClap);
+
+    setTimeout(() => {
+        clapsContainer.removeChild(newClap);
+    }, 2000);
+});
 </script>
 <link rel="stylesheet" href="/assets/css/give-me-five.css">
