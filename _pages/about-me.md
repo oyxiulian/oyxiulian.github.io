@@ -36,7 +36,7 @@ Thanks for your time and interest in my work!
   </div>
 </ul>
 <div class="container">
-    <button id="clapButton" class="btn">GIVE ME FIVE!</button>
+    <button id="clapButton" class="btn">GIVE ME FIVE !</button>
     <div id="clapsContainer"></div>
 </div>
 
