@@ -20,7 +20,7 @@ Thanks for your time and interest in my work!
 "Faith is the reality of what is hoped for, the proof of what is not seen."
 - **Things Cherished Most**: Sunshine, Laughter, and Love
 <div class="container">
-    <button id="clapButton" class="btn">Clap!</button>
+    <button id="clapButton" class="btn">GIVE ME FIVE!</button>
     <div id="clapsContainer"></div>
 </div>
 
