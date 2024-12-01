@@ -20,8 +20,7 @@ Thanks for your time and interest in my work!
 "Faith is the reality of what is hoped for, the proof of what is not seen."
 - **Things Cherished Most**: Sunshine, Laughter, and Love
 <div class="container">
-    <button id="giveMeFiveButton" class="btn">Give Me Five!</button>
-    <div id="fireworks"></div>
+    <button class="give-me-five-button" onclick="createRipple()">Give Me Five</button>
 </div>
 
 <script>
