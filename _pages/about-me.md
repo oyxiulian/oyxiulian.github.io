@@ -19,7 +19,10 @@ Thanks for your time and interest in my work!
 - **Tagline on Social Media**: 
 "Faith is the reality of what is hoped for, the proof of what is not seen."
 - **Things Cherished Most**: Sunshine, Laughter, and Love
+
+
 <div class="container">
+    <span>If you have at least one of them, please give me a five.</span>
     <button id="clapButton" class="btn">GIVE ME FIVE!</button>
     <div id="clapsContainer"></div>
 </div>
@@ -31,16 +34,19 @@ document.getElementById('clapButton').addEventListener('click', function() {
     newClap.classList.add('clap');
     newClap.textContent = '+1👏';
 
+    clapsContainer.appendChild(newClap);
+
+    void newClap.offsetWidth;
+
     const buttonRect = this.getBoundingClientRect();
     const containerRect = clapsContainer.getBoundingClientRect();
+    const clapRect = newClap.getBoundingClientRect();
 
-    const offsetX = buttonRect.left - containerRect.left + buttonRect.width / 2 - newClap.offsetWidth / 2;
+    const offsetX = buttonRect.left - containerRect.left + buttonRect.width / 2 - clapRect.width / 2;
     const offsetY = buttonRect.top - containerRect.top - buttonRect.height / 2;
 
     newClap.style.left = `${offsetX}px`;
     newClap.style.top = `${offsetY}px`;
-
-    clapsContainer.appendChild(newClap);
 
     setTimeout(() => {
         clapsContainer.removeChild(newClap);
