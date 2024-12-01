@@ -22,7 +22,7 @@
 
 #clapsContainer {
     position: absolute;
-    top: -20px; /* 调整位置以确保在按钮上方 */
+    top: 0; /* 确保容器与按钮顶部对齐 */
     left: 50%;
     transform: translateX(-50%);
     pointer-events: none; /* 使+1👏不干扰按钮点击 */

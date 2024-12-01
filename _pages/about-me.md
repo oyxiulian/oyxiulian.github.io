@@ -31,6 +31,15 @@ document.getElementById('clapButton').addEventListener('click', function() {
     newClap.classList.add('clap');
     newClap.textContent = '+1👏';
 
+    const buttonRect = this.getBoundingClientRect();
+    const containerRect = clapsContainer.getBoundingClientRect();
+
+    const offsetX = buttonRect.left - containerRect.left;
+    const offsetY = buttonRect.top - containerRect.top - buttonRect.height / 2;
+
+    newClap.style.left = `${offsetX}px`;
+    newClap.style.top = `${offsetY}px`;
+
     clapsContainer.appendChild(newClap);
 
     setTimeout(() => {
