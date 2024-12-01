@@ -5,7 +5,7 @@ permalink: /about-me/
 author_profile: true
 ---
 
-# Hi! 🤗
+## Hi! 🤗
 Thanks for your time and interest in my work!
 
 ---
