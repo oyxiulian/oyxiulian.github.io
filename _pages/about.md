@@ -3,14 +3,9 @@ permalink: /
 title: ""
 author_profile: true
 redirect_from:
-
 - /about/
 - /about.html
 ---
-
-<script src="/assets/js/about.js"></script>
-<link rel="stylesheet" href="/assets/css/item.css">
-
 ## EDUCATION BACKGROUND
 
 **[Tongji University, Shanghai](https://www.usnews.com/education/best-global-universities/tongji-university-501326)**, ***Master of Science in Management***, Sep. 2019–Jun. 2022
@@ -56,3 +51,5 @@ Leadership, well-being, identity, social hierarchy
 - **Ouyang, X.**, Kwan, H. K., Wang, Y., & Wu, X. (2022). CEO family harmony and firms’ product innovation performance: A moderated mediation model of the CEO-TMT interface. *12th Asia Academy of Management (AAOM) 2022.06, Lanzhou, China*.
 - **Ouyang, X.**, Wang, Y., Wu, X., & Kwan, H. K. (2021). The effects of CEO original family harmony on firm product innovation performance. In Academy of Management Proceedings (Vol. 2021, No. 1, p. 10317). *81st Annual Meeting of the Academy of Management (AOM) 2021.08*. Briarcliff Manor, NY 10510: Academy of Management.👉[View](https://journals.aom.org/doi/abs/10.5465/AMBPP.2021.10317abstract)
 
+<script src="/assets/js/about.js"></script>
+<link rel="stylesheet" href="/assets/css/item.css">
