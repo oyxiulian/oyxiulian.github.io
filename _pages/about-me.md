@@ -52,8 +52,8 @@ document.getElementById('clapButton').addEventListener('click', function() {
     const containerRect = clapsContainer.getBoundingClientRect();
     const clapRect = newClap.getBoundingClientRect();
 
-    const offsetX = buttonRect.left - containerRect.left + buttonRect.width / 2 - clapRect.width / 2;
-    const offsetY = buttonRect.top - containerRect.top - buttonRect.height / 2 - 8;
+    const offsetX = buttonRect.right - containerRect.left + 10;
+    const offsetY = buttonRect.top - containerRect.top + buttonRect.height / 2 - clapRect.height / 2;
 
     newClap.style.left = `${offsetX}px`;
     newClap.style.top = `${offsetY}px`;
