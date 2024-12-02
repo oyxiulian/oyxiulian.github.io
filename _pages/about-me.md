@@ -42,7 +42,7 @@ document.getElementById('clapButton').addEventListener('click', function() {
     const clapsContainer = document.getElementById('clapsContainer');
     const newClap = document.createElement('span');
     newClap.classList.add('clap');
-    newClap.textContent = '+1👏';
+    newClap.textContent = '+1✋';
 
     clapsContainer.appendChild(newClap);
 

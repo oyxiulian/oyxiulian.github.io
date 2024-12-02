@@ -6,7 +6,7 @@
     padding: 15px 30px;
     font-size: 18px;
     color: #fff;
-    background-color: #007bff;
+    background-color: #ffcc00; /* 更改按钮颜色 */
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -16,21 +16,21 @@
 }
 
 .btn:hover {
-    background-color: #0056b3;
+    background-color: #e6a200; /* 更改按钮悬停颜色 */
 }
 
 #clapsContainer {
     position: absolute;
-    top: 0; /* 确保容器与按钮顶部对齐 */
+    top: 0;
     left: 50%;
     transform: translateX(-50%);
-    pointer-events: none; /* 使+1👏不干扰按钮点击 */
+    pointer-events: none;
 }
 
 .clap {
     position: absolute;
     font-size: 24px;
-    color: #ff6347; /* 火焰色 */
+    color: #ff6347;
     opacity: 0;
     animation: riseAndFade 2s ease-in-out forwards;
 }
