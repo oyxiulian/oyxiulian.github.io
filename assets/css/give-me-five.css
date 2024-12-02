@@ -6,7 +6,7 @@
     padding: 15px 30px;
     font-size: 18px;
     color: #fff;
-    background-color: #ffcc00; /* 更改按钮颜色 */
+    background-color: #00008B; /* 更改按钮颜色 */
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -16,7 +16,7 @@
 }
 
 .btn:hover {
-    background-color: #e6a200; /* 更改按钮悬停颜色 */
+    background-color: #0000A0; /* 更改按钮悬停颜色 */
 }
 
 #clapsContainer {

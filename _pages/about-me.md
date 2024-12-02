@@ -29,7 +29,7 @@ Thanks for your time and interest in my work!
     <b>Tagline on Social Media</b>: "Faith is the reality of what is hoped for, the proof of what is not seen."
   </li>
   <li class="item">
-    <b>Things Cherished Most</b>: Sunshine, Laughter, and Love (give me five you have at least one of them.)
+    <b>Things Cherished Most</b>: Sunshine, Laughter, and Love. (Give me five if you have at least one of them!)
   </li>
   <div class="container">
     <button id="clapButton" class="btn">HIGH FIVE !</button>
