@@ -29,16 +29,13 @@ Thanks for your time and interest in my work!
     <b>Tagline on Social Media</b>: "Faith is the reality of what is hoped for, the proof of what is not seen."
   </li>
   <li class="item">
-    <b>Things Cherished Most</b>: Sunshine, Laughter, and Love
+    <b>Things Cherished Most</b>: Sunshine, Laughter, and Love (give me five you have at least one of them.)
   </li>
-  <div class="description">
-     If you have at least one of them, please give me a five.
-  </div>
-</ul>
-<div class="container">
-    <button id="clapButton" class="btn">GIVE ME FIVE !</button>
+  <div class="container">
+    <button id="clapButton" class="btn">HIGH FIVE !</button>
     <div id="clapsContainer"></div>
 </div>
+</ul>
 
 <script>
 document.getElementById('clapButton').addEventListener('click', function() {
@@ -56,7 +53,7 @@ document.getElementById('clapButton').addEventListener('click', function() {
     const clapRect = newClap.getBoundingClientRect();
 
     const offsetX = buttonRect.left - containerRect.left + buttonRect.width / 2 - clapRect.width / 2;
-    const offsetY = buttonRect.top - containerRect.top - buttonRect.height / 2 - 10;
+    const offsetY = buttonRect.top - containerRect.top - buttonRect.height / 2 - 8;
 
     newClap.style.left = `${offsetX}px`;
     newClap.style.top = `${offsetY}px`;
