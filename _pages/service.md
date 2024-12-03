@@ -6,7 +6,6 @@ author_profile: true
 ---
 <link rel="stylesheet" href="/assets/css/item.css">
 <h2>Social Service and Volunteering</h2>
-
 <ul>
   <li class="item">
     2018 Outstanding Youth Volunteer among University Students in Chongqing
