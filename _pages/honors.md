@@ -37,11 +37,11 @@ author_profile: true
   </li>
   <li class="item">
     2015–2018 Integrated Scholarship (<strong>Top 10%; Five times</strong>), Chongqing University
-    👉<a href="/honors/image8.png" class="view-link">View(2015H2) </a>
-    <a href="/honors/image9.png" class="view-link">View(2016H1) </a>
-    <a href="/honors/image10.png" class="view-link">View(2016H2) </a>
-    <a href="/honors/image11.png" class="view-link">View(2017H1) </a>
-    <a href="/honors/image12.jpeg" class="view-link">View(2017H2)</a>
+    👉<a href="/honors/image8.png" class="view-link">View(2015H2)</a>
+    👉<a href="/honors/image9.png" class="view-link">View(2016H1)</a>
+    👉<a href="/honors/image10.png" class="view-link">View(2016H2)</a>
+    👉<a href="/honors/image11.png" class="view-link">View(2017H1)</a>
+    👉<a href="/honors/image12.jpeg" class="view-link">View(2017H2)</a>
   </li>
 </ul>
 <h2>Extracurricular Achievements</h2>
