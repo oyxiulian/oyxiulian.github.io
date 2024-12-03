@@ -14,29 +14,29 @@ Thanks for your time and interest in my work!
 
 ## About Me
 
-<ul>
-  <li class="item">
+<ul style="list-style-type: none; padding: 0;">
+  <li class="item" style="margin-bottom: 20px;">
     <b>Longest Hike</b>: 23.03 km
   </li>
-  <li class="item">
+  <li class="item" style="margin-bottom: 20px;">
     <b>Highest Climb</b>: 3,966 m (Cangshan)
   </li>
-  <li class="item">
+  <li class="item" style="margin-bottom: 20px;">
     <b>Skills Keen to Sharpen</b>: Skateboarding & Coding
   </li>
-  <li class="item">
+  <li class="item" style="margin-bottom: 20px;">
     <b>Favorite Movie</b>: <i>The Best of Youth</i>
   </li>
-  <li class="item">
+  <li class="item" style="margin-bottom: 20px;">
     <b>Tagline on Social Media</b>: "Faith is the reality of what is hoped for, the proof of what is not seen."
   </li>
-  <li class="item">
+  <li class="item" style="margin-bottom: 20px;">
     <b>Things Cherished Most</b>: Sunshine, Laughter, and Love. (Give me five if you have at least one of them!)
   </li>
   <div class="container">
     <button id="clapButton" class="btn">HIGH FIVE !</button>
     <div id="clapsContainer"></div>
-</div>
+  </div>
 </ul>
 
 <script>
