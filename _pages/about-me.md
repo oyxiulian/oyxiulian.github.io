@@ -14,7 +14,7 @@ Thanks for your time and interest in my work!
 
 ## About Me
 
-<ul style="list-style-type: none; padding: 0;">
+<ul>
   <li class="item" style="margin-bottom: 20px;">
     <b>Longest Hike</b>: 23.03 km
   </li>
