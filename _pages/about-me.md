@@ -4,8 +4,10 @@ title: ""
 permalink: /about-me/
 author_profile: true
 ---
-
-## Hi! 🤗
+<script src="/assets/js/about.js"></script>
+<link rel="stylesheet" href="/assets/css/item.css">
+<link rel="stylesheet" href="/assets/css/give-me-five.css">
+<h2>Hi! 🤗</h2>
 Thanks for your time and interest in my work!
 
 ---
@@ -63,6 +65,3 @@ document.getElementById('clapButton').addEventListener('click', function() {
     }, 2000);
 });
 </script>
-<script src="/assets/js/about.js"></script>
-<link rel="stylesheet" href="/assets/css/item.css">
-<link rel="stylesheet" href="/assets/css/give-me-five.css">
