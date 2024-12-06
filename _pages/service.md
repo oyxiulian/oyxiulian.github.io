@@ -29,7 +29,7 @@ author_profile: true
   <li class="item">
     2016–2017 Volunteer of Love and Care Association
     <div class="description">
-      I mainly taught students and visited villages to understand the residents' living conditions, document their needs, distribute supplies, and provide health education sessions for women.
+      I kept in touch with children in remote mountain areas through letters, offering support, listening to their concerns, and answering any questions they had.
     </div>
   </li>
   <li class="item">

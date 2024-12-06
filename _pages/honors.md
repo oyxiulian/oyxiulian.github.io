@@ -92,7 +92,7 @@ author_profile: true
     👉<a href="/honors/image22.png" class="view-link">View(TEM-4)</a>
   </li>
   <li class="item">
-    Summer Intensive Translation and Interpretation Academic Program at The University of British Columbia
+    Summer Intensive Translation and Interpretation Academic Program at the University of British Columbia
     👉<a href="/honors/image24.png" class="view-link">View</a>
   </li>
   <li class="item">
