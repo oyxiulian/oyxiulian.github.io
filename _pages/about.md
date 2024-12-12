@@ -54,7 +54,7 @@ Leadership, well-being, identity, social hierarchy
     Kim, T. Y., Spitzmuller, M., Jiang, Y., & <strong>Ouyang, X.</strong> Outcomes of motivation to lead for leaders and employees. Stage: Data collection.
   </li>
   <li class="item">
-    Han, I., Kim, T. Y, Kong, D. T., Xiang, Y., & <strong>Ouyang, X.</strong> Follower-leader fit on growth mindset: The dyadic effects on employee outcomes and the moderating role of perceived HR development system. Stage: Preparing for submission to <em>the 85th Annual Meeting of the Academy of Management</em>.
+    Han, I., Kim, T. Y., Kong, D. T., Xiang, Y., & <strong>Ouyang, X.</strong> Follower-leader fit on growth mindset: The dyadic effects on employee outcomes and the moderating role of perceived HR development system. Stage: Preparing for submission to <em>the 85th Annual Meeting of the Academy of Management</em>.
   </li>
   <li class="item">
     Kwan, H. K., Li, M., Tian, Q., & <strong>Ouyang X.</strong> The benefits of exhibiting family-supportive supervisor behaviors: An investigation of the effects of reducing supervisors’ work-family conflict. Stage: Preparing for submission to <em>Journal of Organizational Behavior</em>.

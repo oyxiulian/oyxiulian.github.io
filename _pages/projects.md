@@ -51,7 +51,7 @@ author_profile: true
     Kim, T. Y., David, E., Chen, T., & Liang, Y. Effects of self-presentation styles on employee outcomes. Stage: Data analysis.
   </li>
   <li class="item">
-    Kong, D. T., Kim, T. Y, Han, I., & Xiang, Y. Effects of relative leader humor on employee outcomes. Stage: Data analysis.
+    Kong, D. T., Kim, T. Y., Han, I., & Xiang, Y. Effects of relative leader humor on employee outcomes. Stage: Data analysis.
   </li>
   <li class="item">
     Zhang, X., Kwan, H. K., & Wu, F. Effects of mentor holding behaviors on protégés outcomes. Stage: Data analysis.
