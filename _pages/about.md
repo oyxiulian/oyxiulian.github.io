@@ -19,7 +19,7 @@ redirect_from:
   <li class="item">
     Research Assistant for Prof. <a href="https://scholar.google.com/citations?user=2Z7Vb4kAAAAJ&hl=en&oi=ao" class="view-link">Kim Tae Yeol</a>, Jun. 2023–Present
     <div class="description">
-        Prof. Kim is an Associate Editor of Human Relations, a Section Editor of Journal of Business Ethics, and one of the world’s most cited researchers in Business Management & Accounting (Elsevier, 2020-2023). So far, I have worked with Prof. Kim as co-author for three projects, conducted data analysis for seven projects, collected data for one project, cleaned data for three projects, reviewed literature on five topics, and formatted manuscripts for several projects.
+        Prof. Kim is an Associate Editor of Human Relations, a Section Editor of Journal of Business Ethics, and one of the world’s most cited researchers in Business Management & Accounting (Elsevier, 2020-2023). So far, I have worked with Prof. Kim as co-author for four projects, conducted data analysis for seven projects, collected data for one project, cleaned data for three projects, reviewed literature on five topics, and formatted manuscripts for several projects.
     </div>
   </li>
   <li class="item">
