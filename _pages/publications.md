@@ -16,6 +16,7 @@ author_profile: true
 - Kim, T. Y., Spitzmuller, M., Jiang, Y., & **Ouyang, X.** Outcomes of motivation to lead for leaders and employees. Stage: Data collection.
 - Han, I., Kim, T. Y., Kong, D. T., Xiang, Y., & **Ouyang, X.**  Follower-leader fit on growth mindset: The dyadic effects on employee outcomes and the moderating role of perceived HR development system. Stage: Preparing for submission to *the 85th Annual Meeting of the Academy of Management*.
 - Kwan, H. K., Li, M., Tian, Q., & **Ouyang X.** The benefits of exhibiting family-supportive supervisor behaviors: An investigation of the effects of reducing supervisors’work-family conflict.  Stage: Preparing for submission to *Journal of Organizational Behavior*.
+- Diefendorff, J. M., Kim, T. Y., Ong, X. W., Thornton-Lugo, M., & **Ouyang, X.** Emotion regulation at work. Stage: Data collection.
 
 ## Conference Papers
 
