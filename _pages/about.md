@@ -59,6 +59,9 @@ Leadership, well-being, identity, social hierarchy
   <li class="item">
     Kwan, H. K., Li, M., Tian, Q., & <strong>Ouyang X.</strong> The benefits of exhibiting family-supportive supervisor behaviors: An investigation of the effects of reducing supervisors’ work-family conflict. Stage: Preparing for submission to <em>Journal of Organizational Behavior</em>.
   </li>
+  <li class="item">
+    Diefendorff, J. M., Kim, T. Y., Ong, X. W., Thornton-Lugo, M., & <strong>Ouyang, X.</strong> Emotion regulation at work. Stage: Data collection.
+  </li>
 </ul>
 <h3>Conference Papers</h3>
 <ul>
